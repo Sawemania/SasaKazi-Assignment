@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navig{
+    display: flex;
+    justify-content: space-between;
+
+}
+.sasa-logo{
+    width: 200px;
+}
+.links{
+    display: flex;
+    justify-content:space-evenly;
+}
